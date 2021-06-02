@@ -5,7 +5,7 @@
     "storageAccountName": {
       "type": "string",
       "metadata": {
-        "description": "[concat('strgacc', uniqueString(resourceGroup().id))]"
+        "description": "ShraStorageAcc"
       }
     },
     "location": {
