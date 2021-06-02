@@ -19,6 +19,6 @@ steps:
     resourceGroupName: 'NewShradhaRG'
     location: 'Central US'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/ShradhaJ30/AzureRmPipeline-repo/master/CreateWebApp/azuredeploy.json.txt'
+    csmFileLink: 'https://raw.githubusercontent.com/ShradhaJ30/AzureRmPipeline-repo/master/CreateWebApp/azuredeploy.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
